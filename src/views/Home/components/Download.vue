@@ -32,6 +32,10 @@
           </svg>
           {{ t("download.github") }}
         </a>
+
+        <a href="https://apps.apple.com/us/app/peasyo/id6743263824" target="_blank">
+            <img alt="Download on the App Store" :src="appstore" style="height: 64px">
+        </a>
       </div>
     </div>
   </section>
@@ -40,6 +44,8 @@
 <script setup>
 import { useI18n } from "vue-i18n";
 import versionInfo from "@/utils/version.js";
+import appstore from '../../../assets/apple-store-badge.svg'
+
 const { t } = useI18n();
 const version = versionInfo[0].version;
 </script>

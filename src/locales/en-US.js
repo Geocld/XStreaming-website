@@ -9,7 +9,7 @@ export default {
   },
   baseInfo: {
     title: 'Open Source Xbox Streaming/Cloud Gaming App',
-    desc: 'XStreaming is an open-source Xbox/cloud gaming streaming client for mobile devices, inspired by the API interfaces and implementations provided by Greenlight.',
+    desc: 'XStreaming is an full platform open-source Xbox/cloud gaming streaming client for mobile devices, you can streaming xbox and play xCloud anywhere.',
   },
   download: {
     title: 'Download',

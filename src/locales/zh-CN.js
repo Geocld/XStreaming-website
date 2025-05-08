@@ -9,7 +9,7 @@ export default {
   },
   baseInfo: {
     title: '开源Xbox串流/云游戏应用',
-    desc: 'XStreaming是一款开源的Xbox/云游戏串流移动端客户端，借鉴了Greenlight提供的API接口和相关实现。',
+    desc: 'XStreaming是一款全平台开源的Xbox/云游戏串流移动端客户端，你可以在任意地方串流你的主机和游玩xCloud云游戏。',
 
   },
   download: {
