@@ -1,5 +1,10 @@
 export default [
   {
+    version: "v2.3.3",
+    date: "2025-09-01",
+    description: "",
+  },
+  {
     version: "v2.2.1",
     date: "2025-07-15",
     description: "",
